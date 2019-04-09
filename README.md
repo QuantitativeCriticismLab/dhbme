@@ -1,4 +1,4 @@
-# Landing Page for Digital Humanities Beyond Modern English Conference
+# Digital Humanities Beyond Modern English Conference Site
 Conference on computational analysis of premodern and non-Western languages organized by the [Quantitative Criticism Lab](https://qcrit.com)
 Dartmouth College
 Tuesday April 23 - Thursday April 25, 2019
